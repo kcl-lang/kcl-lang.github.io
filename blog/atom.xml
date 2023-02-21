@@ -79,7 +79,7 @@
         <category label="Configuration" term="Configuration"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KCL - Cloud Native Configuration and Policy Language]]></title>
+        <title type="html"><![CDATA[KCL Introduction on GIAC 2021 Meeting]]></title>
         <id>2021-kcl-intro</id>
         <link href="https://kcl-lang.github.io/blog/2021-kcl-intro"/>
         <updated>2021-08-03T00:00:00.000Z</updated>
