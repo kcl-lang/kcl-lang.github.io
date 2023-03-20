@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kcl-lang.github.io/zh-CN/blog</id>
     <title>KCL programming language. Blog</title>
-    <updated>2023-03-17T00:00:00.000Z</updated>
+    <updated>2023-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/zh-CN/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/zh-CN/img/kcl-logo.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[KCL v0.4.6-alpha.1 发布日志]]></title>
+        <id>2022-kcl-0.4.6-alpha.1-release-blog</id>
+        <link href="https://kcl-lang.github.io/zh-CN/blog/2022-kcl-0.4.6-alpha.1-release-blog"/>
+        <updated>2023-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[简介]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="简介">简介<a class="hash-link" href="#简介" title="Direct link to heading">​</a></h2><p>KCL 团队很高兴地宣布 KCL v0.4.6-alpha.1 版本现在已经可用！</p><p>您可以在 <a href="https://github.com/KusionStack/KCLVM/releases/tag/v0.4.6-alpha.1" target="_blank" rel="noopener noreferrer">KCL v0.4.6-alpha.1 发布页面</a> 或者 <a href="https://kcl-lang.io/" target="_blank" rel="noopener noreferrer">KCL 官方网站</a> 获得 KCL 二进制下载链接和更多详细发布信息。</p><p><a href="https://github.com/KusionStack/KCLVM" target="_blank" rel="noopener noreferrer">KCL</a> 是一个开源的基于约束的记录及函数语言，期望通过成熟的编程语言技术和实践来改进对大量繁杂配置和策略的编写，致力于构建围绕配置的更好的模块化、扩展性和稳定性，更简单的逻辑编写，以及更快的自动化集成和良好的生态延展性。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="发布内容">发布内容<a class="hash-link" href="#发布内容" title="Direct link to heading">​</a></h2><ul><li>包含数字、字面值、括号等词法错误恢复</li><li>KCL IDE 插件支持错误和告警显示，跳转等能力</li><li>部分编译器报错改善</li><li>KCL Playground 支持代码分享能力</li><li><a href="https://github.com/KusionStack/KCLVM/issues/434" target="_blank" rel="noopener noreferrer">Kubernetes KPT 工具集成方案设计</a></li><li><a href="https://github.com/KusionStack/KCLVM/issues/426" target="_blank" rel="noopener noreferrer">Kubernetes Helm KCL 工具插件方案</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="下一步计划">下一步计划<a class="hash-link" href="#下一步计划" title="Direct link to heading">​</a></h2><ul><li>KPM 包管理工具正式发布</li><li>更多 KCL 编译器语法错误恢复支持新版 IDE 插件发布，性能预计提升 20 倍</li><li>Helm，KPT 等 Kubernetes 工具 KCL 集成正式发布</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="常见问题及解答">常见问题及解答<a class="hash-link" href="#常见问题及解答" title="Direct link to heading">​</a></h2><p>详见 <a href="https://kcl-lang.io/docs/user_docs/support/" target="_blank" rel="noopener noreferrer">KCL 常见问题</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="其他资源">其他资源<a class="hash-link" href="#其他资源" title="Direct link to heading">​</a></h2><p>感谢所有 KCL 用户在此次版本更新过程中提出的宝贵的反馈与建议。更多其他资源请参考：</p><ul><li><a href="https://kcl-lang.io/" target="_blank" rel="noopener noreferrer">KCL 网站</a></li><li><a href="https://kusionstack.io/" target="_blank" rel="noopener noreferrer">Kusion 网站</a></li><li><a href="https://github.com/KusionStack/KCLVM" target="_blank" rel="noopener noreferrer">KCL Github 仓库</a></li><li><a href="https://github.com/KusionStack/kusion" target="_blank" rel="noopener noreferrer">Kusion Github 仓库</a></li><li><a href="https://github.com/KusionStack/konfig" target="_blank" rel="noopener noreferrer">Konfig Github 仓库</a></li></ul><p>欢迎加入我们的<a href="https://github.com/KusionStack/community" target="_blank" rel="noopener noreferrer">社区</a>进行交流 👏👏👏</p>]]></content>
+        <author>
+            <name>KCL Team</name>
+        </author>
+        <category label="Release Blog" term="Release Blog"/>
+        <category label="KCL" term="KCL"/>
+        <category label="KusionStack" term="KusionStack"/>
+        <category label="Kusion" term="Kusion"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全新的 KCL Playground 来了!]]></title>
         <id>2023-kcl-playground-0.4.5-release</id>
