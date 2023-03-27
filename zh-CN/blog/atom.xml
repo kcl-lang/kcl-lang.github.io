@@ -8,14 +8,14 @@
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/zh-CN/img/kcl-logo.jpg</icon>
     <entry>
-        <title type="html"><![CDATA[KCL Introduction on OS2ATC 2022 Meeting]]></title>
+        <title type="html"><![CDATA[OS2ATC 2022 会议 KCL 介绍内容]]></title>
         <id>2023-03-26-kcl-os2atc-meeting</id>
         <link href="https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting"/>
         <updated>2023-03-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Download PDF]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://kcl-lang.github.io/talks/kcl-os2atc2022.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>]]></content>
+        <summary type="html"><![CDATA[PDF 下载]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.github.io/talks/kcl-os2atc2022.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content>
         <author>
-            <name>Pengfei, Xu</name>
+            <name>徐鹏飞</name>
         </author>
         <category label="KCL" term="KCL"/>
         <category label="Configuration" term="Configuration"/>
