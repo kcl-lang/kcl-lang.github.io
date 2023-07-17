@@ -36,6 +36,19 @@
 If you have more ideas or needs, welcome to issue or discuss them in the KCL Github repo, and welcome to join our community for communication 🙌 🙌 🙌</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KCL Introduction on WAIC 2023 Meeting]]></title>
+        <id>https://kcl-lang.github.io/blog/2023-07-08-kcl-waic-meeting</id>
+        <link href="https://kcl-lang.github.io/blog/2023-07-08-kcl-waic-meeting"/>
+        <updated>2023-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KCL Talk Cover]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/assets/images/talk-cover-22f80dd6b7cbd8b2b09c92e11dc2bf3d.jpg" width="2766" height="1108" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-waic2023.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a></p>]]></content>
+        <author>
+            <name>Pengfei, Xu</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Configuration" term="Configuration"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Talking about the SideCar design pattern in K8S - Part 2]]></title>
         <id>https://kcl-lang.github.io/blog/2023-06-29-k8s-sidecar-2</id>
         <link href="https://kcl-lang.github.io/blog/2023-06-29-k8s-sidecar-2"/>

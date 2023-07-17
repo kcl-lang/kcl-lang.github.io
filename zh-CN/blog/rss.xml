@@ -28,6 +28,16 @@
 如果您有更多的想法和需求，欢迎在 KCL Github 仓库发起 Issue 或讨论，也欢迎加入我们的社区进行交流 🙌 🙌 🙌</li></ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[WAIC 2023 会议 KCL 介绍内容]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting</guid>
+            <pubDate>Sat, 08 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[KCL Talk Cover]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-22f80dd6b7cbd8b2b09c92e11dc2bf3d.jpg" width="2766" height="1108" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-waic2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Configuration</category>
+        </item>
+        <item>
             <title><![CDATA[聊聊 K8S 中的 Sidecar 设计模式·第 2 篇]]></title>
             <link>https://kcl-lang.github.io/zh-CN/blog/2023-06-29-k8s-sidecar-2</link>
             <guid>https://kcl-lang.github.io/zh-CN/blog/2023-06-29-k8s-sidecar-2</guid>
@@ -95,7 +105,7 @@
             <guid>https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting</guid>
             <pubDate>Sun, 26 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[KCL Talk Cover]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-61d4fe429651452d6884992a35dfbb14.jpg" width="2554" height="1436" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-os2atc2022.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-22f80dd6b7cbd8b2b09c92e11dc2bf3d.jpg" width="2766" height="1108" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-waic2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
             <category>KCL</category>
             <category>Configuration</category>
             <category>Policy</category>
