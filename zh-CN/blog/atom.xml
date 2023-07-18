@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/zh-CN/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
-    <icon>https://kcl-lang.github.io/zh-CN/img/kcl-logo.png</icon>
+    <icon>https://kcl-lang.github.io/zh-CN/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[KCL 介绍 PPT]]></title>
         <id>https://kcl-lang.github.io/zh-CN/blog/2023-07-18-kcl-intro-slides</id>
