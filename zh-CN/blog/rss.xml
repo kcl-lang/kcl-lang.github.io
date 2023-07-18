@@ -4,10 +4,20 @@
         <title>KCL programming language. Blog</title>
         <link>https://kcl-lang.github.io/zh-CN/blog</link>
         <description>KCL programming language. Blog</description>
-        <lastBuildDate>Fri, 14 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[KCL 介绍 PPT]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-07-18-kcl-intro-slides</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-07-18-kcl-intro-slides</guid>
+            <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PDF 下载]]></description>
+            <content:encoded><![CDATA[<p><a href="https://kcl-lang.github.io/talks/kcl-intro.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Configuration</category>
+        </item>
         <item>
             <title><![CDATA[KCL v0.5.0 发布日志]]></title>
             <link>https://kcl-lang.github.io/zh-CN/blog/2022-kcl-0.5.0-release-blog</link>
