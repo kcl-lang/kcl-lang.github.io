@@ -4,10 +4,30 @@
         <title>KCL programming language. Blog</title>
         <link>https://kcl-lang.github.io/zh-CN/blog</link>
         <description>KCL programming language. Blog</description>
-        <lastBuildDate>Thu, 31 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[快讯！祝贺 jakezhu9 成为 KCL 社区 Maintainer！KCL Import 工具再迎增强功能！]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-09-04-maintainer-jakezhu9-blog</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-09-04-maintainer-jakezhu9-blog</guid>
+            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[快讯]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="快讯">快讯<a href="#快讯" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p><img loading="lazy" alt="jakezhu9" src="/zh-CN/assets/images/jakezhu9-48d55a7a1f81e641c350cb1d32c66583.png" width="460" height="460" class="img_ev3q"></p><p>🎉 近日，KCL 社区迎来了一位新的 Maintainer 成员，<strong>恭喜 jakezhu9 成功晋升为社区维护者</strong>。</p><p>感谢他在 KCL Go SDK 中做出一系列贡献以及为 KCL Import 工具带来的一系列增强功能的升级，为用户提供更加便捷高效的数据和 Schema 导入体验。以下是他近期的<strong>重要贡献列表</strong></p><ul><li>🔧 <strong>支持从 JSON/YAML 数据转换为 KCL 配置</strong>: <a href="https://github.com/kcl-lang/kcl-go/pull/145" target="_blank" rel="noopener noreferrer">https://github.com/kcl-lang/kcl-go/pull/145</a></li><li>🔧 <strong>支持从 Terraform Provider Schema 转换为 KCL Schema</strong>: <a href="https://github.com/kcl-lang/kcl-go/pull/141" target="_blank" rel="noopener noreferrer">https://github.com/kcl-lang/kcl-go/pull/141</a></li><li>🔧 <strong>支持从 JsonSchema 转换为 KCL Schema</strong>: <a href="https://github.com/kcl-lang/kcl-go/pull/127" target="_blank" rel="noopener noreferrer">https://github.com/kcl-lang/kcl-go/pull/127</a></li></ul><p>新晋 Maintainer 的加入，不仅标志着 jakezhu9 在技术上的卓越表现，也体现了社区对他的高度认可和信任。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="心得体会">心得体会<a href="#心得体会" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p><em>以下是 jakezhu9 同学参与 KCL 社区的心得体会</em></p><p>我非常幸运能够加入 KCL 这样一个优秀的社区来，并参与项目的开发和社区的建设。从一开始了解云原生领域 KusionStack 和 KCL 这样强大的工具和语言，到为项目修复一个简单的 Bug，再到逐步设计和开发 KCL 转换和生成的部分，在这个过程中，我不仅获得了技术水平上的提升，还积累了许多的开源贡献的经验，感受到了不断进步的快乐和成就感。每当看到自己提交的 PR 被合并时，我都会感到特别的满足。感谢 KCL 社区，也感谢社区的前辈和一路上遇到的所有小伙伴，他们在我开发过程中给了我很多的想法和建议，真的非常有帮助。</p><p>KCL 社区是一个开放自由、充满活力与机遇的开源社区，来自不同公司、学校，拥有不同技术背景的开发者，共同在 Github、社区周会上相互交流碰撞，探索前沿的技术解决方案，并为社区持续贡献高效简洁的代码。无论是开源新手还是技术大佬，都可以快速融入社区并参与其中。社区里和谐友好、共同进步的氛围，也让我感到非常的温暖。未来，我将继续为 KCL 社区贡献更多的力量，也热烈欢迎感兴趣的同学加入我们，共同参与到社区的建设和发展中来！</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="其他资源">其他资源<a href="#其他资源" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p>❤️ 感谢所有 KCL 用户和社区小伙伴在社区中提出的宝贵反馈与建议。更多其他资源请参考：</p><ul><li><a href="https://kcl-lang.io/" target="_blank" rel="noopener noreferrer">KCL 网站</a></li><li><a href="https://kusionstack.io/" target="_blank" rel="noopener noreferrer">KusionStack 网站</a></li><li><a href="https://kcl-lang.io/docs/community/release-policy/roadmap" target="_blank" rel="noopener noreferrer">KCL 2023 路线规划</a></li><li><a href="https://github.com/kcl-lang/kcl/milestone/6" target="_blank" rel="noopener noreferrer">KCL v0.6.0 Milestone</a></li><li><a href="https://github.com/kcl-lang/kcl/issues" target="_blank" rel="noopener noreferrer">KCL Github Issues</a></li><li><a href="https://github.com/orgs/kcl-lang/discussions" target="_blank" rel="noopener noreferrer">KCL Github Discussion</a></li><li><a href="https://github.com/kcl-lang/community" target="_blank" rel="noopener noreferrer">KCL Community</a></li></ul>]]></content:encoded>
+            <category>KCL</category>
+            <category>Maintainer</category>
+        </item>
+        <item>
+            <title><![CDATA[2023 平台工程会议 KCL 介绍内容]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-platform-engineering-tech-summit</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-platform-engineering-tech-summit</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PDF 下载]]></description>
+            <content:encoded><![CDATA[<p><a href="https://kcl-lang.github.io/talks/kcl-platform-engineering-tech-summit2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p><p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-35673fcf2ac20420bf5c1675eacd7524.jpg" width="2484" height="1392" class="img_ev3q"></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Meeting</category>
+        </item>
         <item>
             <title><![CDATA[5 分钟玩转 Helmfile KCL 插件，轻松管理 Kubernetes Helm Charts]]></title>
             <link>https://kcl-lang.github.io/zh-CN/blog/2023-08-31-helmfile-kcl-plugin</link>
@@ -85,7 +105,7 @@
             <guid>https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting</guid>
             <pubDate>Sat, 08 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[KCL Talk Cover]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-c8429a40f40947072d895e57e9d116d9.jpg" width="2554" height="1436" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-os2atc2022.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-d1ad5adb402484a069bfc2b3a906c55e.jpg" width="2766" height="1108" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-waic2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
             <category>KCL</category>
             <category>Configuration</category>
         </item>
@@ -157,7 +177,7 @@
             <guid>https://kcl-lang.github.io/zh-CN/blog/2023-03-26-kcl-os2atc-meeting</guid>
             <pubDate>Sun, 26 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[KCL Talk Cover]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-c8429a40f40947072d895e57e9d116d9.jpg" width="2554" height="1436" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-os2atc2022.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="KCL Talk Cover" src="/zh-CN/assets/images/talk-cover-d1ad5adb402484a069bfc2b3a906c55e.jpg" width="2766" height="1108" class="img_ev3q"></p><p><a href="https://kcl-lang.github.io/talks/kcl-waic2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p>]]></content:encoded>
             <category>KCL</category>
             <category>Configuration</category>
             <category>Policy</category>
