@@ -4,10 +4,20 @@
         <title>KCL programming language. Blog</title>
         <link>https://kcl-lang.github.io/blog</link>
         <description>KCL programming language. Blog</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[KCL Introduction at CNCF KCD Hangzhou 2023 Meeting]]></title>
+            <link>https://kcl-lang.github.io/blog/2023-10-21-kcl-kcd-hangzhou-meeting</link>
+            <guid>https://kcl-lang.github.io/blog/2023-10-21-kcl-kcd-hangzhou-meeting</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download PDF (Chinese)]]></description>
+            <content:encoded><![CDATA[<p><a href="https://kcl-lang.io/talks/kcl-cncf-kcd-hangzhou2023.pdf" target="_blank" rel="noopener noreferrer">Download PDF (Chinese)</a></p><p><img loading="lazy" alt="Talk Cover" src="/assets/images/talk-cover-42f2e3b52118a1b0484daed1c2a6540f.png" width="2654" height="1490" class="img_ev3q"></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Meeting</category>
+        </item>
         <item>
             <title><![CDATA[KCL Biweekly Newsletter (2023 09.07 - 10.11)) | v0.6.0 Is Out - Enhancement on IDE Extensions and Package Management!]]></title>
             <link>https://kcl-lang.github.io/blog/2023-10-11-biweekly-newsletter</link>
