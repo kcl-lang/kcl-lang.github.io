@@ -15,6 +15,8 @@
 # Reference: https://github.com/dapr/cli/tree/master/install
 # ------------------------------------------------------------
 
+# @Warning: This script will be deprecated in KCL v0.8.0.
+
 # KCL location
 : ${KCL_INSTALL_DIR:="/usr/local"}
 
