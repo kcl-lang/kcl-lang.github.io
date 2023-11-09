@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[78670],{5591:e=>{e.exports=JSON.parse('{"label":"Biweekly-Newsletter","permalink":"/blog/tags/biweekly-newsletter","allTagsPath":"/blog/tags","count":7}')}}]);
