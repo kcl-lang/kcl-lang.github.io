@@ -170,7 +170,6 @@ else {
     Write-Output "Added $KCLRoot to User Path - $UserPathEnvironmentVar"
     Write-Output "Added $KCLCliFileBinPath to User Path - $UserPathEnvironmentVar"
 }
-# Output the language server binary version.
-$KCLCliFilePath version
+
 Write-Output "`r`nKCL language server is installed to $KCLCliFilePath successfully."
 Write-Output "To get started with KCL language server, please visit https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start ."
