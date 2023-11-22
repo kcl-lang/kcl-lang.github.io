@@ -64,11 +64,16 @@ else {
     Write-Output "Installing KCL language server..."
 }
 
-# Create KCL Directory
+# Create KCL and bin Directory
 Write-Output "Creating $KCLRoot directory"
 New-Item -ErrorAction Ignore -Path $KCLRoot -ItemType "directory"
 if (!(Test-Path $KCLRoot -PathType Container)) {
     throw "Cannot create $KCLRoot, without admin rights"
+}
+Write-Output "Creating $KCLRoot\bin directory"
+New-Item -ErrorAction Ignore -Path "$KCLRoot\bin" -ItemType "directory"
+if (!(Test-Path "$KCLRoot\bin" -PathType Container)) {
+    throw "Cannot create $KCLRoot\bin, without admin rights"
 }
 
 # Get the list of release from GitHub
@@ -145,9 +150,10 @@ if (!(Test-Path $zipFilePath -PathType Leaf)) {
 Write-Output "Extracting $zipFilePath..."
 $tempFolder = New-Item -ItemType Directory -Path "$env:TEMP\tempfolder" -Force
 Expand-Archive -Force -Path $zipFilePath -DestinationPath $tempFolder.FullName
-Copy-Item -Path "$tempFolder\$KCLCliFileName" -Destination $KCLRoot
+Copy-Item -Path "$tempFolder\bin\$KCLCliFileName" -Destination "$KCLRoot\bin"
 
 Microsoft.Powershell.Archive\Expand-Archive -Force -Path $zipFilePath -DestinationPath $KCLRoot
+# C:\kclvm\bin\kcl-language-server
 if (!(Test-Path $KCLCliFilePath -PathType Leaf)) {
     throw "Failed to download KCL language server archieve - $zipFilePath"
 }
