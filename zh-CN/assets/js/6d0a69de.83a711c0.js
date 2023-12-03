@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[73689],{3011:a=>{a.exports=JSON.parse('{"label":"ArtifactHub","permalink":"/zh-CN/blog/tags/artifact-hub","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);

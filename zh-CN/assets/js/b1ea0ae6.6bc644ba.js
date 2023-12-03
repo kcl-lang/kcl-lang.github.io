@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[15999],{14861:e=>{e.exports=JSON.parse('{"label":"Kustomize","permalink":"/zh-CN/blog/tags/kustomize","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);

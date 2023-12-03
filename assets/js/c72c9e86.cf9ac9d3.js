@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[87489],{40434:e=>{e.exports=JSON.parse('{"label":"Kubernetes Resource Model","permalink":"/blog/tags/kubernetes-resource-model","allTagsPath":"/blog/tags","count":1}')}}]);

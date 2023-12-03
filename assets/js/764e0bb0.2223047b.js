@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[19234],{31996:a=>{a.exports=JSON.parse('{"label":"Programming Language","permalink":"/blog/tags/programming-language","allTagsPath":"/blog/tags","count":1}')}}]);
