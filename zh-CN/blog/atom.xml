@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kcl-lang.github.io/zh-CN/blog</id>
     <title>KCL programming language. Blog</title>
-    <updated>2023-12-07T00:00:00.000Z</updated>
+    <updated>2023-12-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/zh-CN/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/zh-CN/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCL 在工程化配置策略场景的探索和落地使用]]></title>
+        <id>https://kcl-lang.github.io/zh-CN/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
+        <link href="https://kcl-lang.github.io/zh-CN/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
+        <updated>2023-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PDF 下载(中文版)]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">PDF 下载(中文版)</a></p>]]></content>
+        <author>
+            <name>KCL 团队</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Meeting" term="Meeting"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCL 社区开源双周报 (2023 11.24 - 12.07) | 如何在 KCL 中使用不同 Kubernetes 配置合并策略?]]></title>
         <id>https://kcl-lang.github.io/zh-CN/blog/2023-12-07-biweekly-newsletter</id>

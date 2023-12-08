@@ -4,10 +4,20 @@
         <title>KCL programming language. Blog</title>
         <link>https://kcl-lang.github.io/zh-CN/blog</link>
         <description>KCL programming language. Blog</description>
-        <lastBuildDate>Thu, 07 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[KCL 在工程化配置策略场景的探索和落地使用]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</guid>
+            <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PDF 下载(中文版)]]></description>
+            <content:encoded><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">PDF 下载(中文版)</a></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Meeting</category>
+        </item>
         <item>
             <title><![CDATA[KCL 社区开源双周报 (2023 11.24 - 12.07) | 如何在 KCL 中使用不同 Kubernetes 配置合并策略?]]></title>
             <link>https://kcl-lang.github.io/zh-CN/blog/2023-12-07-biweekly-newsletter</link>

@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kcl-lang.github.io/blog</id>
     <title>KCL programming language. Blog</title>
-    <updated>2023-12-07T00:00:00.000Z</updated>
+    <updated>2023-12-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Exploration of KCL in Engineering Configuration and Policy Scenarios]]></title>
+        <id>https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
+        <link href="https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
+        <updated>2023-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download Chinese PDF]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">Download Chinese PDF</a></p>]]></content>
+        <author>
+            <name>KCL Team Member</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Meeting" term="Meeting"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCL Biweekly Newsletter (2023 11.24 - 12.07) | How to Use Different Kubernetes Patch Strategies in KCL?]]></title>
         <id>https://kcl-lang.github.io/blog/2023-12-07-biweekly-newsletter</id>
