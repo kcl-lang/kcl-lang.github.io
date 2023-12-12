@@ -21,7 +21,7 @@
         <category label="Meeting" term="Meeting"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KCL 新语义模型]]></title>
+        <title type="html"><![CDATA[KCL 高效语义模型技术揭秘：实现快速编译与增强 IDE 支持]]></title>
         <id>https://kcl-lang.github.io/zh-CN/blog/2023-12-09-kcl-new-semantic-model</id>
         <link href="https://kcl-lang.github.io/zh-CN/blog/2023-12-09-kcl-new-semantic-model"/>
         <updated>2023-12-09T00:00:00.000Z</updated>
