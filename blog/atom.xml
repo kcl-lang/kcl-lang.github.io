@@ -21,6 +21,19 @@
         <category label="KubeVela" term="KubeVela"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KCL && KusionStack Introduction at CNCF KCD ShenZhen 2023 Meeting]]></title>
+        <id>https://kcl-lang.github.io/blog/2023-12-18-kcl-kcd-shenzhen-meeting</id>
+        <link href="https://kcl-lang.github.io/blog/2023-12-18-kcl-kcd-shenzhen-meeting"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download PDF (Chinese)]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/kcl-cncf-kcd-shenzhen2023.pdf" target="_blank" rel="noopener noreferrer">Download PDF (Chinese)</a></p><p><img loading="lazy" alt="Talk Cover" src="/assets/images/talk-cover-43bb207d2e2feea61c1884a6dd39f90c.png" width="2108" height="1188" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>KCL Team</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Meeting" term="Meeting"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Efficient Cloud Native Application Deployment - KCL and KubeVela Integration Quick Guide]]></title>
         <id>https://kcl-lang.github.io/blog/2023-12-15-kubevela-integration</id>
         <link href="https://kcl-lang.github.io/blog/2023-12-15-kubevela-integration"/>

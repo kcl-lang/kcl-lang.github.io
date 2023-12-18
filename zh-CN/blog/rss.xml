@@ -18,6 +18,16 @@
             <category>KCL</category>
         </item>
         <item>
+            <title><![CDATA[2023 CNCF KCD 深圳社区会议 KCL & KusionStack 介绍内容]]></title>
+            <link>https://kcl-lang.github.io/zh-CN/blog/2023-12-18-kcl-kcd-shenzhen-meeting</link>
+            <guid>https://kcl-lang.github.io/zh-CN/blog/2023-12-18-kcl-kcd-shenzhen-meeting</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[PDF 下载]]></description>
+            <content:encoded><![CDATA[<p><a href="https://kcl-lang.io/talks/kcl-cncf-kcd-shenzhen2023.pdf" target="_blank" rel="noopener noreferrer">PDF 下载</a></p><p><img loading="lazy" alt="Talk Cover" src="/zh-CN/assets/images/talk-cover-43bb207d2e2feea61c1884a6dd39f90c.png" width="2108" height="1188" class="img_ev3q"></p>]]></content:encoded>
+            <category>KCL</category>
+            <category>Meeting</category>
+        </item>
+        <item>
             <title><![CDATA[实现高效云原生应用部署运维 - KCL 与 KubeVela 快速集成指南]]></title>
             <link>https://kcl-lang.github.io/zh-CN/blog/2023-12-15-kubevela-integration</link>
             <guid>https://kcl-lang.github.io/zh-CN/blog/2023-12-15-kubevela-integration</guid>
