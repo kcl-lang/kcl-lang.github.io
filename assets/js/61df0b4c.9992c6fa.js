@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[5299],{12171:e=>{e.exports=JSON.parse('{"label":"Landscape","permalink":"/blog/tags/landscape","allTagsPath":"/blog/tags","count":1}')}}]);
