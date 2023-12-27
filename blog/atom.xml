@@ -87,6 +87,19 @@
         <category label="KubeVela" term="KubeVela"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exploration of KCL in Engineering Configuration and Policy Scenarios]]></title>
+        <id>https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
+        <link href="https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
+        <updated>2023-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download Chinese PDF]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">Download Chinese PDF</a></p>]]></content>
+        <author>
+            <name>KCL Team Member</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Meeting" term="Meeting"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unlocking Advanced Code Intelligence with the KCL Semantic Model]]></title>
         <id>https://kcl-lang.github.io/blog/2023-12-09-kcl-new-semantic-model</id>
         <link href="https://kcl-lang.github.io/blog/2023-12-09-kcl-new-semantic-model"/>
@@ -100,19 +113,6 @@ Compared with the analysis process of the original semantic model, the new seman
         </author>
         <category label="KCL" term="KCL"/>
         <category label="Semantic" term="Semantic"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploration of KCL in Engineering Configuration and Policy Scenarios]]></title>
-        <id>https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
-        <link href="https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
-        <updated>2023-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Download Chinese PDF]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">Download Chinese PDF</a></p>]]></content>
-        <author>
-            <name>KCL Team Member</name>
-        </author>
-        <category label="KCL" term="KCL"/>
-        <category label="Meeting" term="Meeting"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[KCL Biweekly Newsletter (2023 11.24 - 12.07) | How to Use Different Kubernetes Patch Strategies in KCL?]]></title>
