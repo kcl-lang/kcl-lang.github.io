@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[219],{41332:e=>{e.exports=JSON.parse('{"label":"kclvm-go","permalink":"/blog/tags/kclvm-go","allTagsPath":"/blog/tags","count":1}')}}]);

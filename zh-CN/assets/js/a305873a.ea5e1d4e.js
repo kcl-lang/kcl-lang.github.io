@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[31150],{41784:e=>{e.exports=JSON.parse('{"label":"Semantic","permalink":"/zh-CN/blog/tags/semantic","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);

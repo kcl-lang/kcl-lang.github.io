@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[83753],{80405:e=>{e.exports=JSON.parse('{"permalink":"/zh-CN/blog/tags/biweekly-newsletter/page/7","page":7,"postsPerPage":2,"totalPages":7,"totalCount":14,"previousPage":"/zh-CN/blog/tags/biweekly-newsletter/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

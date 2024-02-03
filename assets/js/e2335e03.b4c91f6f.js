@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[70778],{56099:e=>{e.exports=JSON.parse('{"label":"Semantic","permalink":"/blog/tags/semantic","allTagsPath":"/blog/tags","count":1}')}}]);

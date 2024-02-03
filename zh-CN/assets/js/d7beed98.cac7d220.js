@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[36006],{71747:e=>{e.exports=JSON.parse('{"label":"Sidecar","permalink":"/zh-CN/blog/tags/sidecar","allTagsPath":"/zh-CN/blog/tags","count":2}')}}]);
