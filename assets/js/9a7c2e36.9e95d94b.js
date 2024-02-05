@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[33570],{34947:e=>{e.exports=JSON.parse('{"label":"LFX-Mentorship","permalink":"/blog/tags/lfx-mentorship","allTagsPath":"/blog/tags","count":1}')}}]);

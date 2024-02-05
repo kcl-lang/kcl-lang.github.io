@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[97504],{15731:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/lfx-mentorship","page":1,"postsPerPage":2,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
