@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[98162],{84347:s=>{s.exports=JSON.parse('{"label":"Crossplane","permalink":"/zh-CN/blog/tags/crossplane","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);
