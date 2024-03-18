@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[83676],{14862:s=>{s.exports=JSON.parse('{"label":"Rust","permalink":"/zh-CN/blog/tags/rust","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);

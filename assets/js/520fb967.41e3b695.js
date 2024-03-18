@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[11141],{54841:e=>{e.exports=JSON.parse('{"label":"Policy","permalink":"/blog/tags/policy","allTagsPath":"/blog/tags","count":2}')}}]);
