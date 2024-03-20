@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kcl-lang.github.io/blog</id>
     <title>KCL programming language. Blog</title>
-    <updated>2024-03-06T00:00:00.000Z</updated>
+    <updated>2024-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCL Newsletter (2024 03.06 - 2024.03.20)]]></title>
+        <id>https://kcl-lang.github.io/blog/2024-03-20-newsletter</id>
+        <link href="https://kcl-lang.github.io/blog/2024-03-20-newsletter"/>
+        <updated>2024-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KCL is a constraint-based record and functional language hosted by Cloud Native Computing Foundation (CNCF) that enhances the writing of complex configurations and polices, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/biweekly-newsletter-fbbce78fb9c12bfc7ceee05a0a5f8870.png" width="1141" height="435" class="img_ev3q"></p><p><a href="https://github.com/kcl-lang" target="_blank" rel="noopener noreferrer">KCL</a> is a constraint-based record and functional language hosted by Cloud Native Computing Foundation (CNCF) that enhances the writing of complex configurations and polices, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems.</p><p>This section will update the KCL language community's latest news, including features, website updates, and the latest community news, helping everyone better understand the KCL community!</p><p><strong><em>KCL Website: <a href="https://kcl-lang.io" target="_blank" rel="noopener noreferrer">https://kcl-lang.io</a></em></strong></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview<a href="#overview" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Thanks to to all contributors for their outstanding work over the past twenty days (2024 03.06 - 2024 03.20). Here is an overview of the key content:</p><p><strong>📦 Module Updates</strong></p><ul><li>Added new kubeadm configuration module.</li><li>Updated Knative Operator module to align with upstream Knative CRD definitions.</li></ul><p><strong>🏄 Language Updates</strong></p><p><strong>KCL has released v0.8.1 and v0.8.2</strong>, mainly including the following updates:</p><ul><li>Enhanced error messages for simplified experience when binary expression types do not match.</li><li>Fixed abnormal error of high-order lambda functions capturing local scope closure variables.</li><li>Removed inequality comparison operations for uncommon list data types.</li></ul><p><strong>🔧 Toolchain Updates</strong></p><ul><li>Fixed an issue in the kcl import tool where input Kubernetes CRDs with the regex property conflicted with the KCL regex system library.</li><li>Fixed a syntax error in the KCL file output when the input Kubernetes CRD properties had complex default values in the kcl import tool.</li><li>Added support for setting the version of a newly created KCL module with the <code>--version</code> flag in the kcl mod init command.</li><li>Commands such as kcl run, kcl mod add, and kcl mod pull now support accessing private Git repositories.</li><li>Fixed a path error encountered when running the kcl run command on a local OCI Registry on Windows.</li></ul><p><strong>🔥 SDK Updates</strong></p><ul><li>The KCL Rust, Go, and Java SDKs have released version 0.8, primarily synchronizing with KCL syntax and semantic updates.</li><li>The KCL Python SDK has released versions 0.8.0.2 and 0.7.6, addressing the issue of outdated dependencies for <code>protobuf</code> and <code>pyyaml</code>.</li></ul><p><strong>💻 IDE Updates</strong></p><ul><li>Support for multiple quick fix repair options.</li></ul><p><img loading="lazy" alt="multiple-quick-fix" src="/assets/images/multiple-quick-fix-671571e92fd0bf529c126fa653bb9c20.png" width="1076" height="362" class="img_ev3q"></p><p><strong>🎁 API Updates</strong></p><ul><li>Added <code>ListOptions</code> API, which can read all <code>option</code> function call information in KCL projects.</li></ul><p><strong>🚢 Integration Updates</strong></p><ul><li>Crossplane KCL Function has released version 0.3.2, supporting access to non-HTTPS protocol OCI Registries and local debugging.</li></ul><p><strong>🌐 Website Updates</strong></p><ul><li>Enabled the <code>kcl-lang.dev</code> domain, allowing access to the KCL website through both <code>kcl-lang.io</code> and <code>kcl-lang.dev</code>.</li><li>Optimized website loading speed for an improved documentation experience on the KCL website.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="special-thanks">Special Thanks<a href="#special-thanks" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Thank you to all the community contributors over the past two weeks, listed in no particular order:</p><ul><li>Thank you to @bozaro for the contribution to the KCL Go SDK with the Go language plugin API. 🙌</li><li>Thank you to @shashank-iitbhu for enhancing the quick fix feature in the KCL IDE, adding support for multiple fix options. 🙌</li><li>Thank you to @octonawish-akcodes for the ongoing contribution to the KCL IDE, automatically monitoring kcl.mod dependencies and updating them. 🙌</li><li>Thank you to @liangyuanpeng for fixing the CLA Bot CI automatic PR locking, contributing to the kubeadm model, and supporting the version setting feature in <code>kcl mod init</code>. 🙌</li><li>Thank you to @Stefano Borrelli, @sfshumaker, @eshepelyuk, @vtomilov, @ricochet1k, @yjsnly, @markphillips100, @userxiaosi, @wilsonwang371, @steeling, @bozaro, @nizq, @reckless-huang, @folliehiyuki, @samuel-deal-tisseo, @MrGuoRanDuo, and @MattHodge for providing valuable suggestions and feedback while using KCL recently. 🙌</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources">Resources<a href="#resources" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>❤️ See <a href="https://github.com/kcl-lang/community" target="_blank" rel="noopener noreferrer">here</a> to join us!</p><p>For more resources, please refer to</p><ul><li><a href="https://kcl-lang.io/" target="_blank" rel="noopener noreferrer">KCL Website</a></li><li><a href="https://kusionstack.io/" target="_blank" rel="noopener noreferrer">KusionStack Website</a></li><li><a href="https://github.com/kcl-lang/kcl/milestone/9" target="_blank" rel="noopener noreferrer">KCL v0.9.0 Milestone</a></li></ul>]]></content>
+        <author>
+            <name>KCL Team</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Newsletter" term="Newsletter"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCL v0.8.0 Release Blog]]></title>
         <id>https://kcl-lang.github.io/blog/2024-03-06-kcl-0.8.0-release</id>
@@ -180,19 +193,6 @@ Take <a href="https://github.com/KusionStack/catalog" target="_blank" rel="noope
         <category label="KubeVela" term="KubeVela"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploration of KCL in Engineering Configuration and Policy Scenarios]]></title>
-        <id>https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
-        <link href="https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
-        <updated>2023-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Download Chinese PDF]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">Download Chinese PDF</a></p>]]></content>
-        <author>
-            <name>KCL Team Member</name>
-        </author>
-        <category label="KCL" term="KCL"/>
-        <category label="Meeting" term="Meeting"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unlocking Advanced Code Intelligence with the KCL Semantic Model]]></title>
         <id>https://kcl-lang.github.io/blog/2023-12-09-kcl-new-semantic-model</id>
         <link href="https://kcl-lang.github.io/blog/2023-12-09-kcl-new-semantic-model"/>
@@ -206,6 +206,19 @@ Compared with the analysis process of the original semantic model, the new seman
         </author>
         <category label="KCL" term="KCL"/>
         <category label="Semantic" term="Semantic"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploration of KCL in Engineering Configuration and Policy Scenarios]]></title>
+        <id>https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting</id>
+        <link href="https://kcl-lang.github.io/blog/2023-12-09-engineering-config-policy-with-kcl-meeting"/>
+        <updated>2023-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download Chinese PDF]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://kcl-lang.io/talks/engineering-config-policy-with-kcl.pdf" target="_blank" rel="noopener noreferrer">Download Chinese PDF</a></p>]]></content>
+        <author>
+            <name>KCL Team Member</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Meeting" term="Meeting"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[KCL Biweekly Newsletter (2023 11.24 - 12.07) | How to Use Different Kubernetes Patch Strategies in KCL?]]></title>

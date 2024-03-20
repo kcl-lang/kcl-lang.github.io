@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[24928],{44294:e=>{e.exports=JSON.parse('{"permalink":"/zh-CN/blog/tags/kcl/page/27","page":27,"postsPerPage":2,"totalPages":27,"totalCount":54,"previousPage":"/zh-CN/blog/tags/kcl/page/26","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
