@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[70929],{37314:s=>{s.exports=JSON.parse('{"label":"Comparison","permalink":"/zh-CN/blog/tags/comparison","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);
