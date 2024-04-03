@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[51482],{1278:e=>{e.exports=JSON.parse('{"label":"Newsletter","permalink":"/zh-CN/blog/tags/newsletter","allTagsPath":"/zh-CN/blog/tags","count":3}')}}]);

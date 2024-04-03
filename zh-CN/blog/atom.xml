@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kcl-lang.github.io/zh-CN/blog</id>
     <title>KCL programming language. Blog</title>
-    <updated>2024-03-22T00:00:00.000Z</updated>
+    <updated>2024-04-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kcl-lang.github.io/zh-CN/blog"/>
     <subtitle>KCL programming language. Blog</subtitle>
     <icon>https://kcl-lang.github.io/zh-CN/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCL 最新动态速递 (2024 03.20 - 2024.04.03)]]></title>
+        <id>https://kcl-lang.github.io/zh-CN/blog/2024-04-03-newsletter</id>
+        <link href="https://kcl-lang.github.io/zh-CN/blog/2024-04-03-newsletter"/>
+        <updated>2024-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KCL 是一个 CNCF 基金会托管的基于约束的记录及函数语言，期望通过成熟的编程语言技术和实践来改进对大量繁杂配置比如云原生 Kubernetes 配置场景的编写，致力于构建围绕配置的更好的模块化、扩展性和稳定性，更简单的逻辑编写，以及更简单的自动化和生态工具集成。]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/zh-CN/assets/images/biweekly-newsletter-zh-bd4cf8c2bcc913a580e7b0e5d6691a08.png" width="1127" height="435" class="img_ev3q"></p><p><a href="https://github.com/kcl-lang" target="_blank" rel="noopener noreferrer">KCL</a> 是一个 CNCF 基金会托管的基于约束的记录及函数语言，期望通过成熟的编程语言技术和实践来改进对大量繁杂配置比如云原生 Kubernetes 配置场景的编写，致力于构建围绕配置的更好的模块化、扩展性和稳定性，更简单的逻辑编写，以及更简单的自动化和生态工具集成。</p><p>本栏目将会双周更新 KCL 语言社区最新动态，包括功能、官网更新和最新的社区动态等，帮助大家更好地了解 KCL 社区！</p><p><strong><em>KCL 官网：<a href="https://kcl-lang.io" target="_blank" rel="noopener noreferrer">https://kcl-lang.io</a></em></strong></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="内容概述">内容概述<a href="#内容概述" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p>感谢所有贡献者过去一段时间 (2024 03.06 - 2024.03.20) 的杰出工作，以下是重点内容概述</p><p><strong>🏄 语言更新</strong></p><p><strong>KCL 发布 0.8.3 和 0.8.4 版本</strong>，主要包含如下更新</p><ul><li>增加了文件系统 built-in 方法 <code>file.abs</code> 计算文件绝对路径和 <code>file.exists</code> 判断文件是否存在。</li></ul><p><strong>🔧 工具链更新</strong></p><ul><li>KCL 包管理工具: <code>kcl.mod</code> 文件中增加对 oci url 的支持。</li><li>KCL 包管理工具: <code>kcl.mod</code> 中移除了间接依赖的更新。</li><li>KCL 包管理工具: 移除了本地依赖的 checksum 检查。</li><li>KCL 包管理工具: 修复了本地依赖版本号缺失的问题。</li><li>KCL 包管理工具: 修复了本地依赖缺失的问题。</li><li>KCL 包管理工具: 修复了符号链接创建失败的内部 bug。</li></ul><p><strong>🔥 SDK 更新</strong></p><ul><li>KCL Go SDK 发布 0.8.3 版本。</li><li>KCL Go SDK 修复了 ParseFile 过程中的 panic 问题。</li><li>KCL Go SDK 支持通过环境变量设置 kcl 编译器自动下载。</li></ul><p><strong>💻 IDE 更新</strong></p><ul><li>修复了 IDE 对于未保存代码的 format 功能。</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="特别鸣谢">特别鸣谢<a href="#特别鸣谢" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p>感谢过去两周所有的社区参与者，以下排名不分先后</p><ul><li>感谢 @bozaro 对 KCL Go SDK 的贡献 🙌</li><li>感谢 @reckless-huang 对于 KCL Go SDK 的贡献 🙌</li><li>感谢 @vemoo 对 KCL IDE 的贡献 🙌</li><li>感谢 @wilsonwang371 对 KCL docker 镜像和 KCL 官网的贡献 🙌</li><li>感谢 @d4v1d03 对 KCL 官网的贡献 🙌</li><li>感谢 @liangyuanpeng 对 KCL github action 的贡献 🙌</li><li>感谢 @octonawish-akcodes 对 KCL IDE 的贡献 🙌</li><li>感谢 @AkashKumar7902 对 KCL 包管理工具的贡献 🙌</li><li>感谢 @markphillips100, @reckless-huang, @steeling, @vfarcic, @wilsonwang371, @M Slane, @Tertium, @Abhishek, @Akash Kumar, @Kim Sondrup, @rodrigoalvamat, @riven-blade, @userxiaosi 等在近段时间使用 KCL 过程中提供的宝贵建议与反馈 🙌</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="其他资源">其他资源<a href="#其他资源" class="hash-link" aria-label="直接链接到标题" title="直接链接到标题">​</a></h2><p>❤️ 查看 <em><a href="https://github.com/kcl-lang/community" target="_blank" rel="noopener noreferrer">KCL 社区</a></em> 加入我们。</p><p>更多其他资源请参考：</p><ul><li><a href="https://kcl-lang.io/" target="_blank" rel="noopener noreferrer">KCL 网站</a></li><li><a href="https://kusionstack.io/" target="_blank" rel="noopener noreferrer">KusionStack 网站</a></li><li><a href="https://github.com/kcl-lang/kcl/milestone/9" target="_blank" rel="noopener noreferrer">KCL v0.9.0 Milestone</a></li></ul>]]></content>
+        <author>
+            <name>KCL 团队</name>
+        </author>
+        <category label="KCL" term="KCL"/>
+        <category label="Newsletter" term="Newsletter"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pkl 和 KCL 的异同]]></title>
         <id>https://kcl-lang.github.io/zh-CN/blog/2024-03-22-pkl-kcl-comparison</id>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcl_website=self.webpackChunkkcl_website||[]).push([[55501],{38037:e=>{e.exports=JSON.parse('{"label":"KCL","permalink":"/zh-CN/blog/tags/kcl","allTagsPath":"/zh-CN/blog/tags","count":57}')}}]);
